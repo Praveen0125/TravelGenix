@@ -1,0 +1,301 @@
+index,name,place,time,type,spend,mood
+0,Ajanta and Ellora Caves,"Aurangabad, Maharashtra",1-2 Days,"Historical, Art",2500,"Ancient, profound"
+1,Ajanta and Ellora Caves Festival,"Aurangabad, Maharashtra",Variable,"Cultural, Art",3000 (during festival),"Classical dance performances, cultural immersion"
+2,Allepey Beaches (Mararikulam/Alappuzha),"Alappuzha, Kerala",Variable,"Beach, Relaxation",3000,"Secluded beaches, yoga retreats"
+3,Allepey Carnival,"Alappuzha, Kerala",Variable,"Cultural, Festival",2500 (during festival),"Boat races, cultural performances"
+4,Alleppey Backwaters (Backwaters Cruise),"Kerala, India",1 Day,Nature,Variable,"Scenic, Relaxing"
+5,Alleppey Beaches,"Alappuzha, Kerala",1-2 Days,"Beach, Relaxation",3500,"Laid-back, serene beaches"
+6,Alleppey Carnival,"Alappuzha, Kerala",Variable,"Cultural, Festival",2500 (during festival),"Boat races, cultural performances"
+7,Amber Fort,"Jaipur, Rajasthan",Half Day,Historical,1500,"Majestic, hilltop views, Grand"
+8,Amber Fort (Elephant Ride),"Jaipur, India",Half Day,Historical,Variable,RoyalExperience
+9,Andaman and Nicobar Islands,Port Blair,Variable,"IslandParadise, Beaches",4000,"Pristine, adventurous"
+10,Andaman Cellular Jail,"Port Blair, Andaman and Nicobar Islands",Half Day,Historical,1000,"Colonial prison, historical significance"
+11,Andaman Cellular Jail Light and Sound Show,"Port Blair, Andaman and Nicobar Islands",Half Day,"Historical, Entertainment",1500,Dramatic storytelling of colonial prison
+12,Andaman Scuba Diving,Andaman and Nicobar Islands,Variable,"Adventure, Sport",5000+ (activity cost),"Explore coral reefs, marine life"
+13,Angkor Wat,"Siem Reap, Cambodia",2-3 days,"Historical, Religious",$50-100,"Spiritual, Enchanting"
+14,Aromatic Plantation Tour (Coorg),"Coorg, Karnataka",Half Day,"Educational, Cultural",1500,"Learn about coffee, cardamom, and other aromatic plants"
+15,Auschwitz-Birkenau,Poland,1 day (day trip from Krakow),"Historical, Somber",$75-150,"Sobering, Reflective"
+16,Backpacking in the Himalayas (Himachal Pradesh/Uttarakhand),Himachal Pradesh/Uttarakhand,Variable,"Adventure, Nature",2500,"Breathtaking scenery, challenging hikes"
+17,Backpacking in the Western Ghats (Kerala/Karnataka),Kerala/Karnataka,Variable,"Adventure, Nature",2500,"Lush landscapes, diverse wildlife, challenging hikes"
+18,Backwaters of Kashmir,"Srinagar, Jammu and Kashmir",2-3 Days,"Nature, Relaxation",4000,"Serene lakes, houseboat stays"
+19,Backwaters of Odisha (Chilika Lake),Odisha,2-3 Days,"Nature, Wildlife",3000,"Bird watching, boat tours, serene landscapes"
+20,Backwaters of Puducherry,Puducherry,2 Days,"Nature, Relaxation",3500,"Serene canals, boat tours"
+21,"Bali, Indonesia",Southeast Asia,1-2 days,"Beach, Culture",$50-100,"Spiritual, Vibrant"
+22,Baramura Caves (Temple Caves),Meghalaya,Half Day,"Historical, Religious",1000,"Ancient, cave, temples, intricate, carvings"
+23,Bhimbetka Caves,Madhya Pradesh,1 Day,"Historical, Art",1500,"Prehistoric paintings, ancient"
+24,Bollywood Studio Tour (Mumbai/Hyderabad),Mumbai/Hyderabad,Half Day,"Entertainment, Cultural",2000,See behind-the-scenes of Indian cinema
+25,Buckingham Palace,"London, England",Half day,"Historical, Landmark",$100-200,"Royal, Ceremonial"
+26,Budapest,Hungary,1-2 days,"Culture, ThermalBaths",$100-150,"Romantic, Historical"
+27,Chernobyl Exclusion Zone,Ukraine,1 day (guided tour from Kiev),"Historical, OfftheBeatenPath",$150-200,"Eerie, Unsettling"
+28,Cherry Blossoms in Japan,"Various Locations, Japan",Variable,Cultural,Variable,Tranquil
+29,Chettinad Villages & Heritage Homestays,Tamil Nadu,1-2 Days,"Cultural, Historical",3000,Experience traditional Chettinad lifestyle
+30,Chichen Itza,"Yucatan Peninsula, Mexico",1 Day,Historical,$40-80,Mystical
+31,Chittorgarh Fort,Rajasthan,1 Day,Historical,2000,"Largest fort in India, historic battles, historical significance"
+32,Christ the Redeemer,"Rio de Janeiro, Brazil",1 day,"Religious, Landmark",$100-200,"Uplifting, Panoramic"
+33,Colosseum,"Rome, Italy",1-3 days,Historical,$100-200,"Grand, Powerful, Ancient"
+34,Coorg (Hill station),Karnataka,2-3 Days,"HillStation, Nature",3000,"Lush green, serene"
+35,Coorg Coffee Plantation Tour,"Coorg, Karnataka",Half Day,"Cultural, Educational",1000,Learn about coffee cultivation and processing
+36,Darjeeling Himalayas,"West Bengal, India",2-3 Days,"Mountains, HillStation, Scenic",3500,"Breathtaking, Picturesque, charming"
+37,Darjeeling Toy Train Ride,"Darjeeling, West Bengal",Half Day,"Scenic, Historical",1500,"Enjoy scenic journey on a historic narrow-gauge railway, mountain views"
+38,Desert Camping (Thar Desert),"Jaisalmer, Rajasthan",Variable,"Adventure, Nature",3000,Experience desert nights under
+39,Desert Festival (Jaipur),Rajasthan,Variable,"Cultural, Festival",3500 (during festival),"Colorful processions, vibrant performances"
+40,Desert Festival (Jaisalmer),Rajasthan,Variable,"Cultural, Festival",3500 (during festival),"Camel parades, folk music and dance"
+41,Deserts of Kutch (Gujarat),Gujarat,Variable,"Adventure, Cultural",3000,"Explore salt deserts, unique culture"
+42,Dhanchi Lake Bird Sanctuary (Rajasthan),"Bharatpur, Rajasthan",Half Day,"Wildlife, Nature",1500,Diverse birdwatching opportunities
+43,Dhanushkodi Beach (Ghost Town),Tamil Nadu,1 Day,"Historical, Offbeat",2000,"Abandoned town, scenic beach, unique experience"
+44,Disneyland Park (Halloween Night),"Anaheim, California, USA",1 Day,ThemePark,$100-200+,"Spooky, Fun"
+45,Dooars Elephant Sanctuary Visit (West Bengal),West Bengal,Half Day,"Wildlife, Ethical",2000,Observe rescued elephants in their natural habitat
+46,Dzukou Valley and Kohima (Hornbill Festival),Nagaland,Variable,"Scenic, Cultural",4000 (during festival),"Breathtaking valley, vibrant tribal festival"
+47,Easter Island,"Rapa Nui, Chile",1-2 days (flight),"Archaeological, Remote, Historical",$200-300,"Enigmatic, Intriguing"
+48,Eiffel Tower,"Paris, France",1-3 days,Landmark,$150-250,"Romantic, Bustling"
+49,Elephanta Caves Festival,"Mumbai, Maharashtra",Variable,"Cultural, Art, Historical",2500 (during festival),"Classical dance performances, cave backdrop, Rock-cut caves, spiritual"
+50,Fjordland National Park,New Zealand,1-2 weeks (hiking/cruising),"Fjords, Wilderness",$200-300,"Dramatic, Untouched"
+51,Franz Josef Glacier,"West Coast, New Zealand",1 Day,Natural Wonder,$100-200,Glacial
+52,French Quarter (Pondicherry),Puducherry,1 Day,"Historical, Colonial",2000,"French colonial architecture, cafes"
+53,Gateway of India,"Mumbai, Maharashtra",Half Day,"Historical, Landmark",1000,"Iconic, symbolic, Historic, Bustling"
+54,Gion District (Geisha Spotting),"Kyoto, Japan",Half Day,Cultural,Variable,"Elegant, Traditional"
+55,Goa Beaches,"Goa, India",Variable,Beach,$50-100/night,Relaxing
+56,Goa Beaches (Watersports),"Goa, India",Variable,Beach,Variable,Adventurous
+57,Golden Gate Bridge,"San Francisco, USA",Half Day,Landmark,Free (toll for vehicles),Iconic
+58,Golden Temple,"Amritsar, Punjab",1 Day,Religious,2000,"Peaceful, spiritual"
+59,Golden Temple Langar (Free Community Kitchen),"Amritsar, Punjab",Half Day,"Cultural, Religious",Free,Witness selfless service and community spirit
+60,Grand Canyon,"Arizona, USA",1-2 Days,NaturalWonder,$50-100,Immense
+61,Great Barrier Reef,Australia,1-2 days (flight + boat),Natural Wonder,$200-300,"Pristine, Diverse, Enchanting"
+62,Great Barrier Reef (Snorkeling/Diving),"Queensland, Australia",1-2 Days,Natural Wonder,$150-300,UnderwaterAdventure
+63,Great Wall of China,"Beijing, China",2 Days,Historical,$75-150,Epic
+64,Ha Long Bay,Vietnam,1-2 days (cruise),"NaturalBeauty, Relaxation",$100-200,"Scenic, Tranquil"
+65,Hagia Sophia,"Istanbul, Turkey",Half Day,Museum,$20-40,Historical
+66,Hampi (Ruins of Vijayanagara Empire),Karnataka,1-2 Days,Historical,2000,"Historical grandeur, spiritual vibes, Majestic"
+67,Hampi Bike Tour,"Hampi, Karnataka",Half Day,"Adventure, Historical",1500 (activity cost),"Explore ruins on bicycles, scenic views"
+68,Hampi Utsav (Festival),"Hampi, Karnataka",Variable,"Cultural, Historical",3500 (during festival),"Vibrant performances, historical reenactments"
+69,Hampi Virupaksha Temple,"Hampi, Karnataka",Half Day,"Historical, Religious",1000,Largest functioning temple complex in Hampi
+70,Hawa Mahal (Palace of Winds),"Jaipur, Rajasthan",Half Day,Historical,1000,"Colorful, vibrant, Intricate"
+71,Hemis National Park (Snow Leopard Sanctuary),Ladakh,2-3 Days (requires acclimatization),Wildlife,6000+,"Spot elusive snow leopards, high-altitude adventure"
+72,"Hill Forts of Rajasthan (Chittorgarh, Jaisalmer, Kumbhalgarh)",Rajasthan,Variable,Historical,2500,"Explore majestic forts, rich history"
+73,"Hill Forts of Rajasthan (Mehrangarh, Jaisalmer, Kumbhalgarh)",Rajasthan,Variable,Historical,2500,"Explore majestic forts, rich history"
+74,Hill Stations of Araku Valley (Andhra Pradesh),Andhra Pradesh,1-2 Days,"Hill station, Nature",2500,"Coffee plantations, waterfalls, tribal villages"
+75,"Hill Stations of Himachal ( Shimla, Manali, Dalhousie)",Himachal Pradesh,Variable,"Hill station, Nature",3500,"Diverse experiences, mountain charm"
+76,Hill Stations of North East (Shillong/Cherrapunjee/Mawsynram),Meghalaya,Variable,"Hill station, Nature",3000,"Lush greenery, waterfalls, unique culture"
+77,Igatpuri Caves (Maharashtra),"Igatpuri, Maharashtra",Half Day,"Historical, Religious",1000,Buddhist caves with scenic surroundings
+78,India Gate,Delhi,Half Day,Historical,1000,"War memorial, ceremonial site"
+79,Istanbul,Turkey,1-2 days,"Culture, Historical",$100-200,"Vibrant, Diverse"
+80,Jaipur Shopping (Hawa Mahal Market/Johari Bazaar),"Jaipur, Rajasthan",Half Day,"Shopping, Cultural",1500,"Find traditional textiles, jewelry, handicrafts"
+81,Jim Corbett National Park,Uttarakhand,2-3 Days,Wildlife,5000,"Adventurous, thrilling"
+82,Kanchenjunga Base Camp Trek (Sikkim),Sikkim,Variable,"Adventure, Mountain",8000+,Challenging trek with breathtaking Himalayan views
+83,Kanha National Park,Madhya Pradesh,2-3 Days,Wildlife,4000,"Tiger spotting, diverse wildlife"
+84,Kanyakumari (Land's End),Tamil Nadu,1-2 Days,"Scenic, Cultural",2000,"Breathtaking views, spiritual"
+85,Kanyakumari (Sunrise/Sunset Point),Tamil Nadu,1-2 Days,"Scenic, Beach",2500,"Witness unique sunrise/sunset, spiritual significance"
+86,Kashmir Valley,"Srinagar, Jammu & Kashmir",Variable,"MountainParadise, Scenic",4000,"Breathtaking beauty, serene"
+87,Kaziranga National Park (One-Horned Rhinoceros Sanctuary),Assam,2-3 Days,Wildlife,5000+,Spot one-horned rhinos and diverse wildlife
+88,Kerala Ayurvedic Rejuvenation,Kerala,Variable,"Wellness, Relaxation",4000+,"Traditional treatments, holistic approach"
+89,Kerala Ayurvedic Treatment Centers,Kerala,Variable,"Wellness, Relaxation",4000+,Traditional holistic treatments
+90,Kerala Backwaters,"Alappuzha, Kerala",2-3 Days,"Nature, Relaxation",3000,"Serene, tranquil"
+91,Kerala Backwaters (Houseboat Stay),"Kerala, India",2-3 Days,Nature,$150-250/night,"Relaxing, Scenic"
+92,Kerala Beaches (Kannur/Kovalam),Kerala,Variable,"Beach, Relaxation",3000,Secluded beaches (Kannur) or lively beaches (Kovalam)
+93,Kerala Beaches (Varkala/Mararikulam),Kerala,Variable,"Beach, Relaxation",3500,"Tranquil beaches, yoga retreats"
+94,Kerala Elephant Sanctuary Visit,Kerala,Half Day,"Wildlife, Ethical",2500,"Observe rescued elephants, ethical interaction"
+95,Kerala Houseboat Spa Treatments,"Alappuzha, Kerala",Variable,"Wellness, Relaxation",4000+,Rejuvenating experience on the backwaters
+96,Kerala Kathakali Performance,Kerala,Half Day,"Cultural, Art",1500,Witness classical dance drama performance
+97,Khajuraho Dance Festival,Madhya Pradesh,Variable,"Cultural, Art",3000 (during festival),"Classical dance performances, temple backdrop, Vivid performances, cultural immersion"
+98,Khajuraho Sound and Light Show,Madhya Pradesh,1 Day,"Historical, Entertainment",1000,"Dramatic storytelling, illuminated temples, Atmospheric, Cultural"
+99,Khajuraho Temples,Madhya Pradesh,1 Day,"Historical, Art",2000,"Architectural marvel, erotic sculptures, Artistic"
+100,Kochi (Fort Kochi),Kerala,1-2 Days,"Historical, Cultural",2500,"Colonial architecture, vibrant culture"
+101,Kodaikanal (Hill station),Tamil Nadu,1-2 Days,"HillStation, Scenic",3000,"Scenic beauty, boating lake"
+102,Kodaikanal Boat Race,Tamil Nadu,Variable (during festival),"Cultural, Festival",2000 (during festival),"Traditional boat races, festive atmosphere"
+103,Kodaikanal Lake,Tamil Nadu,1 Day,"Scenic, Boating",3000,"Picturesque lake, boating activities"
+104,Kodaikanal Pillar Rock Trekking,Tamil Nadu,Half Day,"Adventure, Scenic",1500 (activity cost),Challenging climb with panoramic views
+105,Konark Sun Temple,Odisha,1 Day,"Historical, Religious, Historical, Architectural",2000,"Architectural marvel, chariot-shaped temple, Intricate carvings, spiritual"
+106,Kovalam Beaches,"Thiruvananthapuram, Kerala",1-2 Days,"Beach, Ayurveda",4000,"Luxury beaches, wellness"
+107,Kovalam Lighthouse Beach,"Thiruvananthapuram, Kerala",1-2 Days,"Beach, Historical",4000,"Scenic lighthouse, relaxed beach vibes"
+108,Krishnadevaraya Rayan Tomb (Hampi),"Hampi, Karnataka",Half Day,Historical,1000,Final resting place of a Vijayanagara emperor
+109,Kruger National Park,South Africa,1-2 weeks (safari),"Wildlife, Adventure, Safari",$300-500,"Wild, Thrilling"
+110,Kufri (Hill Station),Himachal Pradesh,1 Day,"HillStation, Scenic",2500,"Picturesque landscapes, horse riding"
+111,Kumbhalgarh Fort,Rajasthan,1-2 Days,Historical,2500,"Second largest fort in India, majestic"
+112,Kumbhalgarh Light and Sound Show,Rajasthan,1 Day,"Historical, Entertainment",1000,"Dramatic storytelling, illuminated fort"
+113,Kyoto,Japan,1-2 days,"Culture, Traditional",$100-200,"Serene, Historical"
+114,La Tomatina (Tomato Festival),"Buñol, Spain",1 Day,Festival,Variable,Exhilarating
+115,Las Vegas Strip,"Nevada, USA",1-3 days,"Entertainment, Gambling",$150-300,"Glittering, Non-Stop"
+116,Leaning Tower of Pisa,"Pisa, Italy",Half Day,Landmark,$20-40,Whimsical
+117,Leh Palace & Shanti Stupa (Ladakh),Ladakh,Half Day,"Historical, Religious",2000,"Royal residence, Buddhist stupa, panoramic views"
+118,Living Root Bridges of Meghalaya,Meghalaya,1-2 Days,"NaturalWonder, Cultural",2000,Unique bridges made from tree roots
+119,Luberon,France,1-2 days,"Countryside, Vineyards",$150-250,"Picturesque, Relaxing"
+120,Machu Picchu,Peru,2-4 days,Historical,$150-200,"Mystical, Remote"
+121,Mahabalipuram (Shore Temples),Tamil Nadu,1 Day,"Historical, Beach",2000,"Ancient temples, serene beach"
+122,Mahabodhi Temple,"Bodh Gaya, Bihar",1-2 Days,"Religious, Historical",2000,"Buddhist pilgrimage site, serene"
+123,Mahatma Gandhi's Hut (Sevagram),"Wardha, Maharashtra",Half Day,Historical,1000,Simple residence of Mahatma Gandhi
+124,Mahatma Gandhi's Sabarmati Ashram,"Ahmedabad, Gujarat",Half Day,Historical,1000,Explore Gandhi's life and philosophy
+125,Majuli Island,Assam,Variable,"RiverIsland, Cultural",2500,"Largest river island, unique culture"
+126,Manali (Hill station),Himachal Pradesh,1-2 Days,"HillStation, Adventure",3000,"Mountaincharm, adventuresports, Skiing, mountaineering, scenic beauty"
+127,Manipur Polo (Unique Horse Polo),Manipur,Half Day,"Cultural, Sport",1000,Witness traditional Manipuri polo match
+128,Marrakech,Morocco,1-2 days,"Culture, Bustling",$75-150,"Energetic, Exotic"
+129,Matunga (Foodie Paradise),"Mumbai, Maharashtra",Half Day,"Food, Cultural",1000,Explore diverse street food scene
+130,Mayapur ISKCON Temple Complex,West Bengal,1 Day,"Religious, Cultural",1500,Largest Hare Krishna temple complex
+131,Meenakshi Temple,"Madurai, Tamil Nadu",Half Day,"Religious, Architectural, Temple",1500,"Vibrant, intricate, Colorful, Spiritual"
+132,Mehrangarh Fort Museum,"Jodhpur, Rajasthan",Half Day,Historical,1500,Explore the fort's history and artifacts
+133,Milford Sound (Kayaking),"Fiordland National Park, New Zealand",1 Day,"Adventure, Nature, NaturalWonder",$100-200,"Active, Scenic, Dramatic"
+134,Mount Abu (Hill station),Rajasthan,1-2 Days,"HillStation, Spiritual, Nature",3000,"Jain temples, cool climate, scenic beauty"
+135,Mount Fuji (Hiking),"Shizuoka Prefecture, Japan",2-3 Days,Mountain,$100-200,"Challenging, Scenic"
+136,Mount Fuji (Scenic Train Ride),"Yamanashi Prefecture, Japan",Half Day,Mountain,Variable,"Relaxing, Scenic"
+137,Munnar (Hill station),Kerala,2-3 Days,"HillStation, Nature",3500,"Picturesque, cool climate, Hilltop Tranquility"
+138,Mysore Dasara Festival,"Mysore, Karnataka",Variable (during festival),"Cultural, Festival",4000 (during festival),"Grand procession, cultural performances"
+139,Mysore Palace,"Mysore, Karnataka",Half Day,"Historical, Palace",1000,"Grandiose, opulent, Grand, Ornate"
+140,Mysore Sandalwood Museum,"Mysore, Karnataka",Half Day,"Historical, Educational",1000,Explore the history and uses of sandalwood
+141,Mysore Silk Saree Shopping,"Mysore, Karnataka",Half Day,"Shopping, Cultural",2000,"Exquisite silk sarees, cultural experience"
+142,Mysore Silk Saree Weaving Demonstration,"Mysore, Karnataka",Half Day,"Cultural, Educational",1500,Learn the art of silk saree creation
+143,Nagarhole National Park,Karnataka,2-3 Days,Wildlife,4500,"Diverse wildlife, beautiful landscapes, thrilling"
+144,Nagarhole National Park Jeep Safari,Karnataka,1 Day,Wildlife,3000 (activity cost),"Exciting exploration, spotting wildlife"
+145,Nagarjuna Sagar (Dam and Sanctuary),Andhra Pradesh,1-2 Days,"Historical, Wildlife",2000,"Majestic dam, wildlife sanctuary"
+146,Naini Lake Boating (Nainital),Uttarakhand,Half Day,"Scenic, Relaxation",1000,Enjoy scenic boat rides on the lake
+147,Nainital Lake (Hill station),Uttarakhand,1-2 Days,"Scenic, Relaxation",3000,"Serene lake, boating activities"
+148,Nalanda Mahavihara Ruins,Bihar,1 Day,"Historical, Educational",1500,Learn about ancient Buddhist university
+149,Nalanda University Ruins,Bihar,1 Day,"Historical, Educational",1500,"Ancient learning center, historical significance"
+150,Nalanda University Ruins Museum,Bihar,Half Day,"Historical, Educational",1000,Learn about ancient Indian learning center
+151,Nanda Devi Trek,Uttarakhand,Variable,"Adventure, Mountain",7000+,"Challenging trek, spectacular views"
+152,Neuschwanstein Castle,"Bavaria, Germany",Half Day,Castle,$30-50,Fairytale
+153,New Orleans,"Louisiana, USA",1-2 days,"Culture, Music",$150-250,"Festive, Lively"
+154,Niagara Falls,Canada & USA,1-2 days,NaturalWonder,$100-200,"Powerful, Majestic"
+155,Ooty (Hill station),Tamil Nadu,1-2 Days,"HillStation, Scenic",3000,"Colonial charm, scenic beauty"
+156,Pangong Tso Lake,Ladakh,2-3 Days (requires acclimatization),"Mountain, Adventure",4500,"Serene, dramatic"
+157,Paragliding in Bir Billing (Kangra Valley),Himachal Pradesh,1 Day,"Adventure, Sport",4000 (activity cost),"Exhilarating experience, panoramic views"
+158,Periyar National Park,Kerala,2-3 Days,"Wildlife, Nature",4000,"Diverse wildlife, serene lake"
+159,Petra,Jordan,1-2 days,"Historical, Ancient City",$100-200,"Majestic, Mysterious"
+160,Pichola Lake,"Udaipur, Rajasthan",1 Day,"Scenic, Cultural",2000,"Picturesque lake, boat rides, palaces"
+161,Plitvice Lakes National Park,Croatia,1 Day,NaturalWonder,$30-50,Enchanting
+162,Prague,Czech Republic,1-2 days,"Culture, Historical",$100-150,"Enchanting, Architectural"
+163,Pushkar (Holy City),Rajasthan,1-2 Days,"Religious, Cultural",2500,"Camel fair, holy temples"
+164,Pushkar Camel Fair,Rajasthan,Variable,"Cultural, Festival",4000 (during festival),"Camel races, vibrant performances"
+165,Pyramids of Giza,Egypt,1-2 days,Historical,$150-250,"Ancient, Mysterious, Awe-inspiring"
+166,Pyramids of Teotihuacan,"Mexico City, Mexico",Half Day,Historical,$30-50,Ancient
+167,Qutub Minar,Delhi,Half Day,Historical,1000,Tallest brick minaret in the world
+168,Qutub Minar & Mehrauli Archaeological Park (Delhi),Delhi,Half Day,Historical,1500,"Architectural wonders, historical significance"
+169,Rameswaram,Tamil Nadu,1-2 Days,"Religious, Beach",2500,"Spiritual, serene beaches"
+170,Ranthambore National Park,Rajasthan,2-3 Days,Wildlife,5000,"Tiger spotting, diverse wildlife, thrilling"
+171,Red Fort,Delhi,Half Day,Historical,1500,"Majestic, grand, Powerful"
+172,Rio de Janeiro,Brazil,1-2 days,"Culture, Beaches",$100-200,"Energetic, Tropical"
+173,Rishikesh (Yoga Capital of the World),Uttarakhand,2-3 Days,"Spiritual, Adventure",2500,"Yoga retreats, adventure activities"
+174,Rishikesh (Yoga Retreat),"Uttarakhand, India",Variable,Wellness,Variable,Peaceful
+175,Rishikesh White Water Rafting,"Rishikesh, Uttarakhand",1 Day,"Adventure, Thrilling",2000 (activity cost),"Exhilarating experience, scenic backdrop"
+176,Rishikesh White Water Rafting Festival,"Rishikesh, Uttarakhand",Variable (during festival),"Adventure, Festival",3000 (during festival),"Rafting competition, festive atmosphere"
+177,Rishikesh Yoga Retreat,"Rishikesh, Uttarakhand",Variable,"Wellness, Spiritual",4000+,"Relaxation, self-discovery"
+178,Rock Climbing in Hampi,"Hampi, Karnataka",Variable,"Adventure, Sport",2500 (activity cost),"Challenging climbs, historical backdrop"
+179,Rock Climbing in Manali,Himachal Pradesh,1-2 Days,"Adventure, Sport",3500 (activity cost),"Thrilling challenge, scenic views"
+180,Royal Bengal Tiger Safari (Sundarbans National Park),West Bengal,Variable,Wildlife,6000+ (activity cost),"Spot tigers in their natural habitat, boat tours"
+181,Sagrada Familia,"Barcelona, Spain",1 day,Architectural,$100-200,"Unique,Awe-Inspiring"
+182,Shillong (Hill Station),Meghalaya,1-2 Days,"HillStation, Scenic",3000,"Picturesque, hill, station, waterfalls, caves"
+183,Shimla (Hill Station),Himachal Pradesh,1-2 Days,"HillStation, Colonial",3000,"Colonial architecture, scenic beauty"
+184,Spice Plantation Tour (Munnar/Wayanad),Kerala,Half Day,"Cultural, Educational",1500,"Learn about spices and their cultivation, unique experience"
+185,St. Basil's Cathedral,"Moscow, Russia",Half Day,Church,$10-20,Colorful
+186,Statue of Liberty,"New York City, USA",Half Day,Landmark,$20-40,Patriotic
+187,Statue of Unity,"Vadodara, Gujarat",1 Day,Monumental,2000,"Patriotic, inspiring"
+188,Stonehenge,"Wiltshire, England",Half day,"Historical, Mysterious",$100-200,"Ancient, Enigmatic"
+189,Street Food Tour (Delhi/Mumbai),Delhi/Mumbai,Half Day,"Cultural, Food",1500,Explore local flavors and cuisines
+190,Taj Mahal,"Agra, Uttar Pradesh",1 Day,"Historical, Architectural",5000,"Romantic, awe-inspiring, Serene, Beautiful, Majestic"
+191,Taj Mahal Agra Fort Complex,"Agra, Uttar Pradesh",1-2 Days,Historical,5500,"Mughal grandeur, awe-inspiring"
+192,Taj Mahal Museum,"Agra, Uttar Pradesh",Half Day,Historical,1000,Explore the history of the monument
+193,Taj Mahal Night View,"Agra, Uttar Pradesh",Half Day,"Historical, Romantic",3000,"Mesmerizing beauty, limited access"
+194,Taj Mahal Night Viewing (Agra),"Agra, Uttar Pradesh",Half Day (Night),Historical,3000,"Mesmerizing experience, limited tickets"
+195,Tea Plantations Tour (Munnar/Darjeeling),Munnar/Darjeeling,Half Day,"Cultural, Educational",1500,"Learn about tea production, scenic views"
+196,Terracotta Army,"Xi'an, China",Half Day,Historical,$30-50,Impressive
+197,Terracotta Army (Night Show),"Xi'an, China",Half Day,Historical,Variable,Illuminating
+198,Thar Desert,Rajasthan,2-3 Days,"Desert, Adventure",3500,"Unique landscape, cultural experience"
+199,Thar Desert Camel Safari,"Jaisalmer, Rajasthan",2-3 Days,"Adventure, Cultural",4000,"Explore the desert, cultural experience, Enthralling"
+200,The Acropolis,"Athens, Greece",1-2 days,Historical,$100-200,"Classical, Inspiring"
+201,The Alhambra Palace (Arabic Baths Experience),"Granada, Spain",1 Day,Historical,Variable,"Relaxing, Historical"
+202,The Alps,Europe (multiple countries),1-2 weeks (skiing/hiking),"Mountains, WinterSports",$200-300,"Active, Scenic"
+203,The Amalfi Coast,Italy,1-2 days,"Beach, Scenic",$150-250,"Dramatic, Romantic"
+204,The Amazon Rainforest,Brazil,Variable,Nature,$200-300,Untamed
+205,The ancient city of Petra (Night tour),"Wadi Musa, Jordan",1-2 Days,Historical,Variable,Atmospheric
+206,The Atlas Mountains,Morocco,1-2 weeks (trekking),"Mountains, Culture",$100-150,"Rugged, Cultural"
+207,The Blackpool Tower,"Blackpool, England",Half Day,Landmark,$20-40,Nostalgic
+208,The Blarney Stone,"Blarney, Ireland",Half Day,Historical,$20-40,Quirky
+209,The Blue Mosque,"Istanbul, Turkey",Half Day,Mosque,Free (donations welcome),Serene
+210,The British Museum,"London, England",1-2 days,"History, Art, Museum",$100-200,"Educational, Expansive"
+211,The Camino de Santiago,Spain,1-4 weeks (walk),"Pilgrimage, Cultural",$100-150,"Spiritual, Reflective"
+212,The canals of Amsterdam (Canal Cruise),"Amsterdam, Netherlands",Half Day,Cityscape,$20-40,"Scenic, Peaceful"
+213,"The Caribbean Islands (Barbados, Jamaica)",Caribbean Sea,1-2 days (flight),"Beach, Relaxation",$200-300,"Tropical, Festive"
+214,The Champs-Élysées,"Paris, France",Half day,"Shopping, Avenue",$150-250,"Chic, Elegant"
+215,The Cliffs of Moher (Cliff Walk),"County Clare, Ireland",Half Day,NaturalWonder,Variable,"Breathtaking, Active, Dramatic"
+216,The CN Tower,"Toronto, Canada",1 day,Landmark,$75-150,"Modern, Breathtaking"
+217,The Colosseum (Gladiator School Experience),"Rome, Italy",1 Day,Historical,Variable,"Immersive, Exciting, Grandiose, Historical"
+218,The Dead Sea,Jordan/Israel Border,Half Day,NaturalWonder,$20-40,"Unique, Relaxing"
+219,The Dolomites,Italy,1-2 weeks (hiking/skiing),"Mountains, Adventure",$150-250,"Scenic, Active"
+220,The Egyptian Museum,"Cairo, Egypt",Half Day,Museum,$20-40,"Fascinating, Historical"
+221,The Fjordlands,New Zealand,1-2 weeks (hiking/cruising),"NaturalBeauty, Fjords",$200-300,"Tranquil, Dramatic"
+222,The Forbidden City,"Beijing, China",1 day,Historical,$100-200,"Grandiose, Forbidden"
+223,"The French Riviera (Cannes, Nice)",France,1-2 days,"Beach, Luxury",$200-300,"Glamorous, Sophisticated"
+224,The Galapagos Islands,Ecuador,1-2 weeks (cruise),"Wildlife, Adventure",$500-1000,"Unique, Untouched, Diverse"
+225,The Ginza District,"Tokyo, Japan",Half day,"Shopping, Culture",$100-200,"Trendy, Sophisticated"
+226,The Golden Gate Bridge,"San Francisco, USA",Half day,Landmark,$100-200,"Iconic, Modern"
+227,"The Golden Triangle (Agra, Delhi, Jaipur)",India,1-2 weeks,Historical Circuit,$75-150,"Cultural, Diverse"
+228,The Grand Canyon,"Arizona, USA",1-3 days,Natural Wonder,$100-200,"Awe-Inspiring, Vast"
+229,The Grand Ole Opry,"Nashville, Tennessee, USA",Half Day,MusicVenue,Variable,Lively
+230,The Great Barrier Reef (Helicopter Tour),"Queensland, Australia",Half Day,NaturalWonder,$200-500,"Breathtaking, Unforgettable"
+231,The Great Barrier Reef Marine Park,Australia,1-2 days (flight + boat),"Diving, Snorkeling",$200-300,"Underwater, Paradise, Adventurous"
+232,The Great Migration,East Africa,1-2 weeks,Wildlife,$300-500,"Raw, Unforgettable"
+233,The Great Ocean Road,"Victoria, Australia",1-2 days (road trip),"ScenicDrive, Beaches, Coastal Drive",$100-200,"Coastal, Relaxing, Scenic"
+234,The Great Smoky Mountains National Park,"Tennessee & North Carolina, USA",1-2 weeks (hiking),"Mountains, Nature",$100-200,"Rustic, Scenic"
+235,The Great Wall of China,China,1-2 days,Historical,$100-200,"Majestic, Inspiring"
+236,The Great Wall of China (Hiking),China,Variable,Historical,Variable,"Challenging, Rewarding"
+237,The Great Wall of China (Huanghuacheng section),"Beijing, China",Half Day,Historical,$20-40,LessCrowded
+238,The Great Wall of China (Jinshanling Section),Beijing Area,Half Day,Historical,$30-50,"LessCrowded, Scenic"
+239,"The Greek Islands (Santorini, Mykonos)",Greece,1-2 days (flight + ferry),"Beach, Culture",$150-250,"Picturesque, Lively"
+240,"The Hawaiian Islands (Maui, Kauai)","Hawaii, USA",1-2 days (flight),"Beach, Adventure",$200-300,"Lush, Active"
+241,The Himalayas,Asia (multiple countries),1-2 weeks (trekking),"Mountains, Adventure",$200-300,"Challenging, awe-inspiring"
+242,The Inca Trail,Peru,4-5 days (trek),"Historical, Adventure, Hike",$200-300,"Challenging, Rewarding"
+243,The John Muir Trail,"California, USA",2-3 weeks (hike),"Hiking, Wilderness",$150-200,"Scenic, Remote"
+244,The Kremlin,"Moscow, Russia",Half Day,Historical,$20-40,Grand
+245,The Las Vegas Strip,"Nevada, USA",1-3 days,"Entertainment, Gambling",$150-300,"Glittering, Non-Stop"
+246,The Leaning Tower of Pisa,"Pisa, Italy",Half day,"Historical, Architectural",$100-200,"Whimsical, Fun, Picturesque"
+247,The Louvre Museum,"Paris, France",1-2 days,"Art, Museum",$150-250,"Cultural, Inspiring, Artistic"
+248,The Maldives,South Asia,1-2 days (flight + transfer),"Beach, Relaxation",$300-500,"Luxurious, Tranquil"
+249,The Masai Mara,Kenya,2-3 Days,Safari,$300-500,Wild
+250,"The Mayan Riviera (Tulum, Cancun)",Mexico,1-2 days (flight),"Beach, History",$150-250,"Ancient, Lively"
+251,The Metropolitan Museum of Art,"New York City, USA",1-2 days,"Art, Museum",$150-250,"Cultural, Grand, Inspiring, Enriching"
+252,The Milford Track (Multi-Day Hike),"Fiordland National Park, New Zealand",4-5 Days,"Hike, Nature, Hiking, ScenicBeauty",$500-1000,"Challenging, Scenic, Breathtaking, Unforgettable"
+253,The Napa Valley,"California, USA",1-2 days,"WineRegion, Culinary",$200-300,"Luxurious, Sophisticated"
+254,The Northern Lights,Arctic Circle,2-4 days,NaturalPhenomenon,$200-300,"Ethereal, Magical"
+255,The Northern Lights,Arctic Circle,Variable,NaturalWonder,$100-200,Ethereal
+256,The Okavango Delta,Botswana,1-2 weeks (safari),"Wildlife, Adventure",$500-1000,"Luxurious, Untamed"
+257,The Oktoberfest (Opening Ceremony),"Munich, Germany",Variable,Festival,Variable,"Lively, Celebratory"
+258,The Outback,Australia,1-2 weeks (road trip),"NaturalLandscape, Adventure",$150-200,"Remote, Unforgettable"
+259,The Palace of Versailles (Gardens Show),"Versailles, France",1 Day,Palace,Variable,Spectacular
+260,The Patagonia Region,Argentina & Chile,1-2 weeks,"Hiking, Adventure",$200-300,"Rugged, Untamed"
+261,The Polynesian Cultural Center,"Oahu, Hawaii, USA",Half Day,Cultural,$75-100,Immersive
+262,The Pyramids of Giza,Egypt,1-2 days,Historical,$150-250,"Ancient, Mysterious"
+263,The Rijksmuseum,"Amsterdam, Netherlands",1 day,Art,$100-150,"Historical, Cultural"
+264,The Ring Road,Iceland,1-2 weeks (road trip),"NaturalWonders, Adventure",$200-300,"Dramatic, Otherworldly"
+265,The Rockies,North America (Canada & USA),1-2 weeks (hiking/skiing),"Mountains, Adventure",$150-250,"Majestic, Wild"
+266,The Romantic Road,Germany,1-2 weeks (road trip),"ScenicDrive, Castles",$100-200,"Charming, Historical"
+267,The Sagrada Familia (Christmas Mass),"Barcelona, Spain",Half Day,Church,Variable,"Spiritual, Uplifting"
+268,The Scottish Highlands,Scotland,1-2 weeks (road trip),"Mountains, Scenery, Nature",$100-200,"Dramatic, Untamed, Rugged"
+269,The Serengeti National Park,Tanzania,1-2 weeks (safari),"Wildlife, Adventure, Safari",$300-500,"Untamed, Diverse"
+270,The Seychelles,East Africa,1-2 days (flight + transfer),"Beach, Relaxation",$300-500,"Secluded, Pristine"
+271,The Sheikh Zayed Grand Mosque,"Abu Dhabi, UAE",Half day,"Religious, Architectural",$75-150,"Serene, Opulent"
+272,The Sheikh Zayed Road,"Dubai, UAE",Half day,Modern Cityscape,$150-250,"Futuristic, Extravagant"
+273,The Silk Road,Central Asia,Varies (multi-country),"HistoricalRoute, Culture",$150-250,"Adventurous, Diverse"
+274,The Taj Mahal,"Agra, India",1-2 days,"Historical, Architectural",$75-150,"Serene, Beautiful"
+275,The Taj Mahal (Full Moon Viewing),"Agra, India",1 Day,Historical,Variable,Romantic
+276,The Terracotta Army,"Xi'an, China",1-2 days,Historical,$100-200,"Impressive, Ancient"
+277,The Vatican Museums,Vatican City,1-2 days,"Art, Religious",$100-200,"Sacred, Artistic"
+278,The White House,"Washington D.C., USA",Half day,Historical,$100-200,"Political, Imposing"
+279,Times Square,"New York City, USA",Half day,"Entertainment, CityLife",$150-250,"Bustling, Electric"
+280,Tuscany,Italy,1-2 days,"Countryside, FoodWine",$150-250,"Rustic, Charming"
+281,Uluru (Ayers Rock),"Northern Territory, Australia",1-2 Days,NaturalWonder,$100-200,Sacred
+282,Uluru (Sunrise/Sunset),"Northern Territory, Australia",1-2 Days,Natural Wonder,Variable,Awe-inspiring
+283,Universal Studios Florida,"Orlando, Florida, USA",3-5 days,"ThemePark, Thrills",$150-250,"Exciting, Action-Packed"
+284,Universal Studios Hollywood (VIP Tour),"Los Angeles, California, USA",1 Day,ThemePark,Variable,"Exclusive, Thrilling"
+285,Varanasi,Uttar Pradesh,2-3 Days,"Religious, Cultural",1500,"Spiritual, intense"
+286,Varanasi (Holy City),"Uttar Pradesh, India",1-2 Days,Religious,Variable,Spiritual
+287,Victoria Falls,Zambia & Zimbabwe,1-2 days,NaturalWonder,$150-250,"Thundering, Untamed, Powerful"
+288,Victoria Falls (Bungee Jumping),Zambia/Zimbabwe Border,1-2 Days,Adventure,$150-200,"Thrilling, Powerful"
+289,Victoria Memorial,"Kolkata, West Bengal",Half Day,Historical,1000,"Marble palace, colonial architecture"
+290,Wagah Border Retreat Ceremony (India-Pakistan Border),"Amritsar, Punjab",Half Day,"Cultural, Historical",1000,Witness patriotic border ceremony
+291,Waitomo Caves,"Waikato, New Zealand",Half Day,Natural Wonder,$50-100,GlowwormMagic
+292,Walt Disney World Resort,"Orlando, Florida, USA",3-7 days,"ThemePark, FamilyFun",$200-300,"Enchanting, Energetic"
+293,Wayanad (Hill station),Kerala,2-3 Days,"HillStation, Nature",3500,"Lush greenery, adventure"
+294,Wayanad Wildlife Sanctuary,Kerala,2-3 Days,"Wildlife, Nature",4000,"Diverse wildlife, trekking opportunities"
+295,Wildlife Sanctuary Boat Safari (Kaziranga/Kanha),Assam/Madhya Pradesh,Half Day,Wildlife,2000 (activity cost),Observe wildlife from a unique perspective
+296,Wildlife Sanctuary Jeep Safari (Bandhavgarh/Kanha),Madhya Pradesh,1 Day,Wildlife,3000 (activity cost),"Exciting exploration, diverse wildlife"
+297,Wildlife Sanctuary Jeep Safari (Kaziranga/Kanha),Assam/Madhya Pradesh,1 Day,Wildlife,3000 (activity cost),"Exciting exploration, diverse wildlife"
+298,Wildlife Sanctuary Night Safari (Pench/Bandhavgarh),Madhya Pradesh,Half Day,Wildlife,2500 (activity cost),"Spot nocturnal animals, unique experience"
+299,Yosemite National Park,"California, USA",1-2 weeks (hiking),"Mountains, Nature",$150-250,"Majestic, Grandiose"
